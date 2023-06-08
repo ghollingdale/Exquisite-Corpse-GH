@@ -1,2 +1,1 @@
-# Exquisite-Corpse-GH
-My first attempt at collaborative repos
+"This is the first sentence of my story. The story is EXTREMELY interesting." 
